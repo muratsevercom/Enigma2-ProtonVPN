@@ -1,5 +1,8 @@
 # Proton VPN for Enigma2 — v1.1.0 (Murat SEVER)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26c04427-0248-4c7a-9070-7d8bf156bdee" />
+
+
 ## Türkçe
 **Kurulum:** `opkg install /tmp/enigma2-plugin-extensions-protonvpn_1.2.1_all.ipk`
 (DreamOS: `dpkg -i ...deb; apt-get -f install`) → arayüzü yeniden başlatın.
